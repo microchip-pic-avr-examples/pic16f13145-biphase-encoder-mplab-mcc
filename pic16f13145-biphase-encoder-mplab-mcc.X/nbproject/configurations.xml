@@ -244,7 +244,7 @@
       <nEdbgTool>
         <property key="memories.programmemory.ranges" value="0-1fff"/>
         <property key="programmerToGoFilePath"
-                  value="C:/Users/m66790/OneDrive - Microchip Technology Inc/Documents/pic16f131/biphase-encoder.X/debug/default/biphase-encoder_ptg"/>
+                  value="C:/Users/m66790/OneDrive - Microchip Technology Inc/Documents/Release Folder/EBE/pic16f13145-biphase-encoder-mplab-mcc/pic16f13145-biphase-encoder-mplab-mcc.X/debug/free/pic16f13145-biphase-encoder-mplab-mcc_ptg"/>
       </nEdbgTool>
     </conf>
     <conf name="pro" type="2">
@@ -478,7 +478,7 @@
         <property key="memories.programmemory.ranges" value="0-1fff"/>
         <property key="poweroptions.powerenable" value="false"/>
         <property key="programmerToGoFilePath"
-                  value="C:/Users/m66790/OneDrive - Microchip Technology Inc/Documents/pic16f131/biphase-encoder.X/debug/default/biphase-encoder_ptg"/>
+                  value="C:/Users/m66790/OneDrive - Microchip Technology Inc/Documents/Release Folder/EBE/pic16f13145-biphase-encoder-mplab-mcc/pic16f13145-biphase-encoder-mplab-mcc.X/debug/pro/pic16f13145-biphase-encoder-mplab-mcc_ptg"/>
         <property key="programoptions.eraseb4program" value="true"/>
         <property key="programoptions.preservedataflash" value="false"/>
         <property key="programoptions.preservedataflash.ranges"

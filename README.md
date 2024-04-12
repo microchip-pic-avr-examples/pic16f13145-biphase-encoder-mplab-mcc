@@ -2,7 +2,7 @@
 
 <a href="https://www.microchip.com" rel="nofollow"><img src="images/microchip.png" alt="MCHP" width="300"/></a>
 
-# Bi-Phase Encoder — Use Case for CLB Using the PIC16F13145 Microcontroller with MCC Melody
+# Bi-Phase Encoder with Configurable Bitrate Based on CLB Using the PIC16F13145 Microcontroller with MCC Melody
 
 The repository contains the Bi-Phase Encoder, an MPLAB® X project, using Core Independent Peripherals (CIPs) by following the interaction between Custom Logic Block (CLB), Serial Peripheral Interface (SPI) and Universal Asynchronous Receiver-Transmitter (UART) peripherals.
 
@@ -19,14 +19,14 @@ More details and code examples on the PIC16F13145 can be found at the following 
 - [PIC16F13145 Product Page](https://www.microchip.com/en-us/product/PIC16F13145?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_PIC16F13145&utm_content=pic16f13145-biphase-encoder-mplab-mcc&utm_bu=MCU08)
 - [PIC16F13145 Code Examples on Discover](https://mplab-discover.microchip.com/v2?dsl=PIC16F13145)
 - [PIC16F13145 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples/?q=PIC16F13145)
-- [Bi-Phase Decoder — Use Case for CLB Using the PIC16F13145 Microcontroller with MCC Melody](https://github.com/microchip-pic-avr-examples/pic16f13145-biphase-decoder-mplab-mcc)
+- [Bi-Phase Decoder with Configurable Bitrate Based on CLB Using the PIC16F13145 Microcontroller with MCC Melody](https://github.com/microchip-pic-avr-examples/pic16f13145-biphase-decoder-mplab-mcc)
 - [Bi-Phase Encoder and Decoder - Use Cases for CIPs Using the AVR128DA48 Microcontroller with MCC Melody](https://github.com/microchip-pic-avr-examples/avr128da48-cnano-biphase-mplab-mcc)
 
 ## Software Used
 
 - [MPLAB X IDE v6.20 or newer](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_PIC16F13145&utm_content=pic16f13145-biphase-encoder-mplab-mcc&utm_bu=MCU08)
 - [MPLAB® XC8 v2.46 or newer](https://www.microchip.com/en-us/tools-resources/develop/mplab-xc-compilers?utm_source=GitHub&utm_medium=TextLink&utm_campaign=MCU8_MMTCha_PIC16F13145&utm_content=pic16f13145-biphase-encoder-mplab-mcc&utm_bu=MCU08)
-- [PIC16F1xxxx_DFP v1.24.387 or newer](https://packs.download.microchip.com/)
+- [PIC16F1xxxx_DFP v1.25.389 or newer](https://packs.download.microchip.com/)
 
 ## Hardware Used
 
@@ -171,7 +171,7 @@ This chapter demonstrates how to use the MPLAB X IDE to program a PIC® device w
 
 ## Menu
 
-- [Back to Top](#bi-phase-encoder--use-case-for-clb-using-the-pic16f13145-microcontroller-with-mcc-melody)
+- [Back to Top](#bi-phase-encoder-with-configurable-bitrate-based-on-clb-using-the-pic16f13145-microcontroller-with-mcc-melody)
 - [Back to Related Documentation](#related-documentation)
 - [Back to Software Used](#software-used)
 - [Back to Hardware Used](#hardware-used)
