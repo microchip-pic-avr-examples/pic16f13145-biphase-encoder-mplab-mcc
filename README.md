@@ -41,7 +41,7 @@ To program the Curiosity Nano board with this MPLAB X project, follow the steps 
 
 This project is an implementation of a Bi-Phase encoder using CIPs by following the interaction between CLB, SPI, and UART peripherals. The raw data is received via serial communication, encoded using the circuit composed into the CLB peripheral mentioned above and sent through a single data wire. The CLB circuit is captured in the figure below:
 
-<br><img src="images/clb_encoder_circuit.png" width="1000">
+<br><img src="images/clb_encoder_circuit.png" width="600">
 
 The raw data is received via serial communication by the UART peripheral. This data is then stored in a buffer and used as input for the SPI peripheral which generates Non-Return-to-Zero (NRZ) data signal and a clock signal. Those signals are selected as inputs for the circuit composed inside the CLB peripheral which outputs the Bi-Phase encoded signal. A First-In-First-Out (FIFO) buffer mechanism is used from the generated libraries for UART peripheral to facilitate the data storage and minimize data loss.
 
